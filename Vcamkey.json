@@ -19,5 +19,12 @@
         "password": "Limon1",
         "expirydate": "01-12-2026",
         "Allowoffline": false
+    },
+  {
+        "device_id": "16ef3e5b9c7110d6",
+        "username": "Afrin",
+        "password": "Afrin",
+        "expirydate": "01-12-2026",
+        "Allowoffline": false
     }
 ]
