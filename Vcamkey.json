@@ -40,5 +40,13 @@
         "password": "Reza1",
         "expirydate": "01-12-2027",
         "Allowoffline": false
-  }
+  },
+  
+  {
+        "device_id": "3d5200abcd90e8fc",
+        "username": "Reza",
+        "password": "Reza",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
