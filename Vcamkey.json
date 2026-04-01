@@ -47,5 +47,12 @@
         "password": "Rana",
         "expirydate": "01-12-2027",
         "Allowoffline": false
+  },
+  {
+        "device_id": "9a0b852e5f3fd602",
+        "username": "Sandalina",
+        "password": "Sandalina",
+        "expirydate": "01-12-2027",
+        "Allowoffline": false
   }
 ]
