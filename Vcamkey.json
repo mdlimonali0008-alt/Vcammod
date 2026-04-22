@@ -54,5 +54,12 @@
         "password": "Sandalina",
         "expirydate": "01-12-2026",
         "Allowoffline": false
+  },
+  {
+        "device_id": "d5eb8f388150920f",
+        "username": "Reza1",
+        "password": "Reza1",
+        "expirydate": "01-12-2027",
+        "Allowoffline": false
   }
 ]
